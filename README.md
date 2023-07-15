@@ -17,7 +17,7 @@
 - 📫 How to reach me: **adel.jarour@gmail.com**
 
 <br><br>
-## <picture><img src = "🌐Socials" width = 50px></picture> Can Connect With Me On
+## <picture><img src = "https://github.com/Adel-Jarour/Adel-Jarour/blob/main/wired-flat-27-globe.gif" width = 50px></picture> Can Connect With Me On
 
 <p align="center">
 <a href="https://www.linkedin.com/in/adel-jarour-6a431a262/" target="_blank">
@@ -37,13 +37,12 @@
 </a> &nbsp;&nbsp;
 <p>
   
-<br>
+<br><br><br>
   
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
     
-<!-- retro visitor counter -->  
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/Adel-Jarour/count.svg" />  
 </p>
