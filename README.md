@@ -1,6 +1,6 @@
 <h3 align="center">
   Welcome, I`m ADEL!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -15,9 +15,9 @@
 - 👯 I’m looking to collaborate on **app applictaion project**
 
 - 📫 How to reach me: **adel.jarour@gmail.com**
+<br>
 
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Languages and Tools
+## 🛠️ Languages and Tools
 
 <br>
 <p align="left"> 
@@ -32,6 +32,9 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> </p>
 
 <br><br>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adel-Jarour&show_icons=true&locale=en&layout=compact" alt="Adel-Jarour" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adel-Jarour&show_icons=true&locale=en" alt="Adel-Jarour" /></p>
@@ -40,8 +43,7 @@
 
 
 <br><br>
-## <picture><img src = "https://github.com/Adel-Jarour/Adel-Jarour/blob/main/wired-flat-27-globe.gif" width = 50px></picture> Can Connect With Me On
-
+## ☎️ Can Connect With Me On
 <p align="center">
 <a href="https://www.linkedin.com/in/adel-jarour-6a431a262/" target="_blank">
   <img align="center" alt="Adel Jarour | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
