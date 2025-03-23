@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on my **Flutter project**
 
-- 🌱 I’m currently learning **Python, UI\UX**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **app applictaion project**
 
