@@ -6,13 +6,14 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
-<h3 align="start">A mobile application developer [Flutter], and a beginner in python</h3>
+<h3 align="start">I'm a passionate Senior Flutter Developer with a keen interest in mobile application development, specializing in building scalable, high-performance, and user-centric applications. I have strong experience in Flutter architecture, state management (especially GetX), and responsive UI design.
+</h3>
 
-- 🔭 I’m currently working on my **Flutter project**
+- 🔭 Currently building and improving my **Flutter applications**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 Expanding my knowledge in **Python and backend development**
 
-- 👯 I’m looking to collaborate on **app applictaion project**
+- 👯 Open to collaborating on mobile and cross-platform application projects
 
 - 📫 How to reach me: **adel.jarour@gmail.com**
 <br>
@@ -28,15 +29,12 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/> </a> </p>
+</p>
 
 <br><br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adel-Jarour&show_icons=true&locale=en&layout=compact" alt="Adel-Jarour" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adel-Jarour&show_icons=true&locale=en" alt="Adel-Jarour" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adel-Jarour&" alt="Adel-Jarour" /></p>
 
@@ -46,9 +44,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/adel-jarour-6a431a262/" target="_blank">
   <img align="center" alt="Adel Jarour | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/AdelJarour" target="_blank">
-  <img align="center" alt="Adel Jarour | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/adel_jarour/" target="_blank">
   <img align="center" alt="Adel Jarour | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
@@ -62,13 +57,5 @@
 <p>
   
 <br><br><br>
-  
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Adel-Jarour/count.svg" />  
-</p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
